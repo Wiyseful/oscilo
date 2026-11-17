@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/oscilo-logo.svg" alt="Oscilo" width="260" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/oscilo-logo-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/oscilo-logo.svg" />
+  <img src="assets/oscilo-logo.svg" alt="Oscilo" width="260" />
+</picture>
 
 ### Learn it. Keep it.
 
