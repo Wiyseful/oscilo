@@ -32,25 +32,33 @@ The current AI integration uses GPT-OSS 20B via Groq with structured responses a
 
 ## See Oscilo
 
+Fresh captures from the live application on November 17, 2026. The notes example uses non-private sample learning material; the suggestions shown were produced by the app.
+
 ### Your learning at a glance
 
-![Oscilo dashboard, desktop screenshots](docs/screenshots/desktop-dashboard.png)
+![Oscilo desktop dashboard with upcoming reviews and study activity](docs/screenshots/desktop-dashboard.jpg)
 
-### Study on your phone
+### Write notes and review AI suggestions
 
-![Oscilo mobile interface, light theme](docs/screenshots/phones-light.png)
+![Oscilo notes editor with formatting tools and sample memory notes](docs/screenshots/desktop-notes-editor.jpg)
 
-![Oscilo mobile interface, dark theme](docs/screenshots/phones-dark.png)
+Suggestions appear in Read mode, where you can inspect the source before adding a card.
+
+![Oscilo note in Read mode with three AI flashcard suggestions](docs/screenshots/desktop-notes-ai.jpg)
 
 ### Make every card your own
 
-![Oscilo deck and card editing interface](docs/screenshots/desktop-deck.png)
+![Oscilo deck list and card editor](docs/screenshots/desktop-deck.jpg)
 
-### A workspace that feels like yours
+### Mobile layout in light and dark
 
-![Oscilo light, dark, and Dracula themes](docs/screenshots/themes.png)
+These are genuine captures of the app's responsive layout at a 545 CSS-pixel viewport, using browser zoom. They show the top of the dashboard, rather than a physical phone or device-emulation capture.
 
-*Screenshots are authentic captures from the app's existing screenshot collection; they may not reflect the very latest interface or branding.*
+| Light | Dark |
+| --- | --- |
+| ![Oscilo responsive dashboard in light mode](docs/screenshots/mobile-light.jpg) | ![Oscilo responsive dashboard in dark mode](docs/screenshots/mobile-dark.jpg) |
+
+A separate memory-insights view was not available in this session. The dashboard shows the current review forecast and empty study history; no review history was manufactured for these captures.
 
 ## Built for lasting learning
 
