@@ -1,14 +1,14 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/oscilo-logo-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/oscilo-logo.svg" />
-  <img src="assets/oscilo-logo.svg" alt="Oscilo" width="260" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/oscilo-logo-filled-white.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/oscilo-logo-filled-black.svg" />
+  <img src="assets/oscilo-logo-filled-black.svg" alt="Oscilo" width="260" />
 </picture>
 
 ### Learn it. Keep it.
 
-**Notes, thoughtful AI flashcards, and adaptive spaced repetition—built to make knowledge last.**
+**Notes, thoughtful AI flashcards, and adaptive spaced repetition, built to make knowledge last.**
 
 </div>
 
@@ -20,7 +20,7 @@ Oscilo brings writing and remembering into one focused workspace. Capture what y
 
 ### AI flashcards that stay grounded in your notes
 
-Most important: **Oscilo generates suggestions from the note you wrote—not a search of the wider internet.**
+Most important: **Oscilo generates suggestions from the note you wrote, not a search of the wider internet.**
 
 - **Source-grounded:** Prompts restrict generation to facts explicitly present in your note, rather than filling gaps with outside information.
 - **Atomic questions:** Each suggested card focuses on one testable fact, with a clear question that makes sense on its own.
@@ -86,7 +86,7 @@ The goal isn't to spend more time reviewing. It's to **remember more of what mat
 
 <div align="center">
 
-**Oscilo — Learning at the rhythm of memory.**
+**Oscilo: Learning at the rhythm of memory.**
 
 *In development · Application source code is maintained privately.*
 
