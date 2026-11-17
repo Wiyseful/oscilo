@@ -1,9 +1,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/oscilo-logo-filled-white.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/oscilo-logo-filled-black.svg" />
-  <img src="assets/oscilo-logo-filled-black.svg" alt="Oscilo" width="260" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/oscilo_white.png" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/oscilo_black.png" />
+  <img src="assets/oscilo_black.png" alt="Oscilo" width="260" />
 </picture>
 
 ### Learn it. Keep it.
