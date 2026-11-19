@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/oscilo_white.png" />
   <source media="(prefers-color-scheme: light)" srcset="assets/oscilo_black.png" />
-  <img src="assets/oscilo_black.png" alt="Oscilo" width="260" />
+  <img src="assets/oscilo_black.png" alt="Olumino" width="260" />
 </picture>
 
 ### Learn it. Keep it.
@@ -16,11 +16,11 @@
 
 ## Your notes. Your knowledge.
 
-Oscilo brings writing and remembering into one focused workspace. Capture what you're learning, turn it into questions worth reviewing, and watch your knowledge become more dependable over time.
+Olumino brings writing and remembering into one focused workspace. Capture what you're learning, turn it into questions worth reviewing, and watch your knowledge become more dependable over time.
 
 ### AI flashcards that stay grounded in your notes
 
-Most important: **Oscilo generates suggestions from the note you wrote, not a search of the wider internet.**
+Most important: **Olumino generates suggestions from the note you wrote, not a search of the wider internet.**
 
 - **Source-grounded:** Prompts restrict generation to facts explicitly present in your note, rather than filling gaps with outside information.
 - **Atomic questions:** Each suggested card focuses on one testable fact, with a clear question that makes sense on its own.
@@ -30,25 +30,25 @@ Most important: **Oscilo generates suggestions from the note you wrote, not a se
 
 The current AI integration uses GPT-OSS 20B via Groq with structured responses and request safeguards. **AI can still make mistakes**; the grounding rules are designed to reduce hallucinations, not guarantee their absence.
 
-## See Oscilo
+## See Olumino
 
 Fresh captures from the live application on November 17, 2026. The notes example uses non-private sample learning material; the suggestions shown were produced by the app.
 
 ### Your learning at a glance
 
-![Oscilo desktop dashboard with upcoming reviews and study activity](docs/screenshots/desktop-dashboard.jpg)
+![Olumino desktop dashboard with upcoming reviews and study activity](docs/screenshots/desktop-dashboard.jpg)
 
 ### Write notes and review AI suggestions
 
-![Oscilo notes editor with formatting tools and sample memory notes](docs/screenshots/desktop-notes-editor.jpg)
+![Olumino notes editor with formatting tools and sample memory notes](docs/screenshots/desktop-notes-editor.jpg)
 
 Suggestions appear in Read mode, where you can inspect the source before adding a card.
 
-![Oscilo note in Read mode with three AI flashcard suggestions](docs/screenshots/desktop-notes-ai.jpg)
+![Olumino note in Read mode with three AI flashcard suggestions](docs/screenshots/desktop-notes-ai.jpg)
 
 ### Make every card your own
 
-![Oscilo deck list and card editor](docs/screenshots/desktop-deck.jpg)
+![Olumino deck list and card editor](docs/screenshots/desktop-deck.jpg)
 
 ### Mobile layout in light and dark
 
@@ -56,7 +56,7 @@ These are genuine captures of the app's responsive layout at a 545 CSS-pixel vie
 
 | Light | Dark |
 | --- | --- |
-| ![Oscilo responsive dashboard in light mode](docs/screenshots/mobile-light.jpg) | ![Oscilo responsive dashboard in dark mode](docs/screenshots/mobile-dark.jpg) |
+| ![Olumino responsive dashboard in light mode](docs/screenshots/mobile-light.jpg) | ![Olumino responsive dashboard in dark mode](docs/screenshots/mobile-dark.jpg) |
 
 A separate memory-insights view was not available in this session. The dashboard shows the current review forecast and empty study history; no review history was manufactured for these captures.
 
@@ -74,11 +74,11 @@ A separate memory-insights view was not available in this session. The dashboard
 | **Designed for focus** | Mobile-friendly gestures, multiple themes, and offline-friendly navigation. |
 | **Your data** | Local browser storage with import/export backups. |
 
-## Why Oscilo?
+## Why Olumino?
 
 **Learning something once isn't the same as being able to recall it later.**
 
-Oscilo is built around that difference. Notes help you capture and organize information. Retrieval practice tests what you can actually remember. Adaptive scheduling helps you return to it at useful intervals. Memory insights make progress visible without turning learning into a streak competition.
+Olumino is built around that difference. Notes help you capture and organize information. Retrieval practice tests what you can actually remember. Adaptive scheduling helps you return to it at useful intervals. Memory insights make progress visible without turning learning into a streak competition.
 
 The goal isn't to spend more time reviewing. It's to **remember more of what matters**.
 
@@ -86,7 +86,7 @@ The goal isn't to spend more time reviewing. It's to **remember more of what mat
 
 <div align="center">
 
-**Oscilo: Learning at the rhythm of memory.**
+**Olumino: Learning at the rhythm of memory.**
 
 *In development · Application source code is maintained privately.*
 
